@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aravind Sairam!
 
-<!--
-**aravindsairam001/aravindsairam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Robotics & AI Engineer with a love for building innovative, real-world solutions. I specialize in SLAM, ROS, Computer Vision, and Embedded Systems, and I'm always eager to learn and collaborate on cutting-edge projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:**  
+  Autonomous drone-based bridge defect detection and 3D reconstruction pipelines.
+
+- 🌱 **I’m currently learning:**  
+  Photogrammetry with **COLMAP** & **Meshlab** for high-fidelity 3D modeling.
+
+- 👯 **I’m looking to collaborate on:**  
+  Robotics, AI/ML, computer vision, and embedded systems projects.
+
+- 🤔 **I’m looking for help with:**  
+  Advanced 3D vision, multi-robot coordination, and open-source robotics frameworks.
+
+- 💬 **Ask me about:**  
+  ROS2, SLAM, YOLO, embedded systems, and real-world robotics deployments.
+
+- 📫 **How to reach me:**  
+  [aravindsairam98@gmail.com](mailto:aravindsairam98@gmail.com)  
+  [LinkedIn](https://www.linkedin.com/in/aravindsairam/) | [Portfolio Website](https://aravindsairam001.github.io/my_portfolio/)
+
+- 😄 **Pronouns:** He/Him
+
+- ⚡ **Fun fact:**  
+  I love building robots that bridge the digital and physical worlds, and I’m always up for a hackathon or a robotics challenge!
+
+---
+
+> “Architecting intelligent autonomous systems for real-world challenges.”
+
+---
+
+![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindsairam001&show_icons=true&theme=dark&bg_color=1f2937&title_color=c084fc&icon_color=a855f7)
+
+---
