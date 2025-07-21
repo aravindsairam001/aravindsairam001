@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aravind Sairam!
+# 👋 Hola, I'm Aravind Sairam!
 
 I'm a passionate Robotics & AI Engineer with a love for building innovative, real-world solutions. I specialize in SLAM, ROS, Computer Vision, and Embedded Systems, and I'm always eager to learn and collaborate on cutting-edge projects.
 
@@ -37,3 +37,5 @@ I'm a passionate Robotics & AI Engineer with a love for building innovative, rea
 ![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindsairam001&show_icons=true&theme=dark&bg_color=1f2937&title_color=c084fc&icon_color=a855f7)
 
 ---
+
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
